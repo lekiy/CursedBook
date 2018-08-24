@@ -1,0 +1,27 @@
+Cursed Book (title pending) checklist
+
+[] Create Prototype
+	[] Create Basic Tile Art
+	[] Create Player Sprite
+	[] Render Tile Map to game
+		[] Create Tile Object
+		[] Create Map Builder Script
+	[] Add Player to the game
+		[] Create Entity Object
+		[] Create Player Object
+		[] Create Map Coord Management scripts
+		[] Create Spawn Player Script
+	[] Add Player Movement
+		[] Create Movement Script
+		[] Create Controller Script
+	[] Add Ground Collision
+		[] Create Is On Ground Script
+		[] Add gravity to entity movements
+	[] Create Movement Animation
+	[] Add State Management
+	[] Create Attack Animation
+		[] Add Attack State and Scripts
+	[] Create Enemy Sprite
+	[] Create Damage Script
+	
+	... probably more but I need to think about it some more
